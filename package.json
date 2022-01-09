@@ -1,0 +1,22 @@
+{
+  "name": "protractor-node",
+  "version": "1.0.0",
+  "description": "jasmine test",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damnDasha/jasmine.git"
+  },
+  "author": "dashA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damnDasha/jasmine/issues"
+  },
+  "homepage": "https://github.com/damnDasha/jasmine#readme"
+}
